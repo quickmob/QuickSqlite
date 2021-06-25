@@ -1,4 +1,4 @@
-# Android 图片选择库
+# Android 数据库
 
   [![](https://jitpack.io/v/quickmob/QuickSqlite.svg)](https://jitpack.io/#quickmob/QuickSqlite)
 
